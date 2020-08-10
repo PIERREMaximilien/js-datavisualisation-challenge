@@ -23,3 +23,9 @@ You work in the Multimedia department of one of the European Union institutions.
 He asks you to make it more *rich*, more *interactive*, more... *sexy* (The use of that specific adjective indicates that Johnny certainly worked in advertising before, the poor guy).
 
 That's exactly what you're going to do, by adding two **interactive data visualisation graphics** using javascript.  These graphs will be interactive in the sense that the user can manipulate the graph, such as filtering data, or reveal detailed data when the mouse hovers over it. You are free to design the interaction in your project.
+
+## resultat :
+
+https://pierremaximilien.github.io/js-datavisualisation-challenge/
+
+I didn't hestimate the  time well, didn't finish it properly we do during the week.
